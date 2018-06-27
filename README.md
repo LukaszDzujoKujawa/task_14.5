@@ -1,7 +1,7 @@
 Contacts Page
 ====================
 
-Simple page enabling users to add thier Name, Surname and e-mail adress to the list
+Simple page enabling users to add thiers Name, Surname and e-mail adress to the contact's list
 
 Basic background
 ---------------------
